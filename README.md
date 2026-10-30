@@ -2,7 +2,7 @@
 
 > **Business question:** Which customers are leaving, why, how much revenue does it cost, and who should the retention team contact first?
 
-![Dashboard overview](dashboard/page1_overview.png)
+![Dashboard overview](page1_overview.png)
 
 ## Project summary
 An end-to-end churn analysis on the public IBM Telco Customer Churn dataset (7,043 customers). The project cleans and explores the data in Python, builds KPIs for revenue impact, trains a churn prediction model, and delivers a 4-page Power BI dashboard with a ranked retention action list.
